@@ -40,11 +40,11 @@ The Team Managers can track their teams' performances through-out the periods to
 Executive team can track Revenue numbers to monitor alignment with the set targets to influence medium to long term strategies.
 Note: You are to use the company's standard colors across your reports. You will find the Logo and Color guides in the Assets Folder you can download in the next lesson.
 
+Report Requirements 
+## A couple of numbers have been identify to be reported in their data as report.
+Two pages/chapters
+- Sales Performance overview 
+- Marketing Performance. 
 
-
-
-
-
-
-# Sales-Analysis-Forggith-
-This project shows the state of the Sales Financial Performance of business during the month, identify growth opportunities and pain points which will help the business plan for the next period.
+## Data cleaning and transformation 
+Two dataset was provided for this project which are the _Sales data and the Target data_. The following data cleaning was done on the dataset as this will help in getting accurate results for our visualisation. 
