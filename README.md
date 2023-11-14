@@ -47,4 +47,4 @@ Two pages/chapters
 - Marketing Performance. 
 
 ## Data cleaning and transformation 
-Two dataset was provided for this project which are the _Sales data_ and _Target data_. The following data cleaning was done on the dataset as this will help in getting accurate results for our visualisation. 
+Two dataset was provided for this project which are the **_Sales data_** and **_Target data_**. The following data cleaning was done on the dataset as this will help in getting accurate results for our visualisation. 
