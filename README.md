@@ -44,6 +44,8 @@ Skills/ Concepts demonstrated:
 
 ## Data Cleaning and Transformation 
 Two dataset was provided for this project which are the **_ActualSales data_** and **_Target data_**. The following data cleaning was done on the dataset as this will help in getting accurate results for our visualisation. 
+Understanding the dataset first was a crusial part of this project and so i created a datadictionary to help me understand the data and the columns for each tables.                        
+![here](DataDictionary1.png)
 
 -  Append Queries: Append queries was done for the Actualsales 2022 and the Actual sales 2023 - 2025
 -  ETL file was created for tables that will not be loaded into the power Bi.
