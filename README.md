@@ -80,28 +80,27 @@ Here, we could discover the following insights.
 
 ## Sales Overview: 
 ![](SalesOverview.png)
-.  The Total Revenue was $11.12bn
-.  The total Target was $8.45bn
-.  The Revenue YTD was $2.66bn against the Target YTD of $2.43.
-.  Pharmacy Channel generated a total of 52.9% revenue  higher than Hospital 47.1% revenue.
+- The Total Revenue was $11.12bn
+- The total Target was $8.45bn
+- The Revenue YTD was $2.66bn against the Target YTD of $2.43.
+- Pharmacy Channel generated a total of 52.9% revenue  higher than Hospital 47.1% revenue.
 
 ## Marketing Performance: 
 ![](Marketing.png)
-.  There are 240 products.
-.  Each product price cost $412.57 on average.
+-  There are 240 products.
+-  Each product price cost $412.57 on average.
 
 ## Recommendation
-It's positive that the total revenue from 2022-2025 exceeded the target revenue, indicating overall success.
-Identify underperforming products and develop strategies for improvement.
-Assess why the Pharmacy Channel outperformed the Hospital Channel. Identify strategies from the Pharmacy Channel that can be implemented in the Hospital Channel to boost revenue.
+-  It's positive that the total revenue from 2022-2025 exceeded the target revenue, indicating overall success.
+-  Identify underperforming products and develop strategies for improvement.
+-  Assess why the Pharmacy Channel outperformed the Hospital Channel. Identify strategies from the Pharmacy Channel that can be implemented in the Hospital Channel to boost revenue.
+
+You can connect with me ![here](https://www.linkedin.com/in/victoriaogwuche/)
+
+![](thankyou.png)
 
 
 
-• Here are ideas of how these reports will be used:
-The Sales Representative can track their performances through-out the periods to plan their marketing activities.
-The Team Managers can track their teams' performances through-out the periods to plan their teams' activities.
-Executive team can track Revenue numbers to monitor alignment with the set targets to influence medium to long term strategies.
-Note: You are to use the company's standard colors across your reports. You will find the Logo and Color guides in the Assets Folder you can download in the next lesson.
 
 
 
