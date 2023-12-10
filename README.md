@@ -6,6 +6,13 @@
 
 This power Bi project aims to provide insights into the Sales and Marketing performance of Forggith Pharmaceutical company over the years. By analzing various aspects of the data, we seek to identify sales trends, marketing objectives through tracking and monitoring of KPIS, make data driven recommendations, and gain a deeper understanding of the company performance.
 
+## Objective
+Here are ideas of how these reports will be used:
+
+- The Sales Representative can track their performances through-out the periods to plan their marketing activities.
+- The Team Managers can track their teams' performances through-out the periods to plan their teams' activities.
+- Executive team can track Revenue numbers to monitor alignment with the set targets to influence medium to long term strategies.
+
 ## Data Sources
 The Primary dataset used for this project is the Actualsales data and the Target data, containing detailed information about the sales made and the set target of the company
 
