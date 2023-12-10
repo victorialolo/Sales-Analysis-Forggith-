@@ -81,21 +81,26 @@ The report comprises of 3 pages:
 2.  Marketing Performance
 3.  Insights and Recommendations
 
-You can interact with the dashboard                 [here](https://app.powerbi.com/view?r=eyJrIjoiODRlMGZhM2UtM2MzYi00ZjYxLTgwNGMtZDMxYmZmYjU4NzdkIiwidCI6IjUwODUxMjk2LTliZDEtNGM1Yi05MDllLWY2M2U0OWVmZWEyNSJ9)
+You can interact with the dashboard  
+[here](https://app.powerbi.com/view?r=eyJrIjoiODRlMGZhM2UtM2MzYi00ZjYxLTgwNGMtZDMxYmZmYjU4NzdkIiwidCI6IjUwODUxMjk2LTliZDEtNGM1Yi05MDllLWY2M2U0OWVmZWEyNSJ9)
 
 ## Analysis:
 
 Here, we could discover the following insights.
 
 ## Sales Overview: 
+
 ![](SalesOverview.png)
+
 - The Total Revenue was $11.12bn
 - The total Target was $8.45bn
 - The Revenue YTD was $2.66bn against the Target YTD of $2.43.
 - Pharmacy Channel generated a total of 52.9% revenue  higher than Hospital 47.1% revenue.
 
-## Marketing Performance: 
+## Marketing Performance:
+
 ![](Marketing.png)
+
 -  There are 240 products.
 -  Each product price cost $412.57 on average.
 
